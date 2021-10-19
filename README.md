@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysrael12&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
-  
+  ## habilidades :
  
  <img align="center" alt="ysrael" height="40" width="70" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
  
