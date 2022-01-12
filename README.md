@@ -7,14 +7,7 @@
 <p align="left">
 
 
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/ysrael12/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
 
 
 - :seedling: &nbsp;I’m currently learning **Django, and python**
@@ -56,7 +49,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="48" height="48" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" height="48" alt="TypeScript" />
       </a>
       <br>Css
     </td>
