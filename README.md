@@ -16,9 +16,9 @@
   <img src="https://raw.githubusercontent.com/ysrael12/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+
 - :seedling: &nbsp;I’m currently learning **Django, and python**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :speech_balloon: &nbsp;I like to talk about **politc** and **softwares devlopment**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
