@@ -10,7 +10,7 @@
 
 
 
-- :seedling: &nbsp;I’m currently learning ** web devlopment with python and java **
+- :seedling: &nbsp;I’m currently learning **web devlopment with python and java**
 - :speech_balloon: &nbsp;I like to talk about **politc** and **softwares devlopment**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
