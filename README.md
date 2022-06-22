@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- :seedling: &nbsp;I am python devloper , and javascript / typescript**
+- :seedling: &nbsp;I am a full stack developer, python, mysql, java, javascript
 
 
 <br>
