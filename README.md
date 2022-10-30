@@ -6,7 +6,7 @@
 
 <p align="left">
 
-- :seedling: &nbsp;Habilidades aprendidas durante minha jornada :
+- :seedling: &nbsp;Habilidades obtidas durante minha jornada :
  - Python
  - django 
  -DRF
