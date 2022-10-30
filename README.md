@@ -13,12 +13,12 @@
 
 <h2 align="left" id="macropower-tech">Sobre Ysrael(Pessoa)</h2>
 
-> Gosto de One piece :)
-> Basketball
-> Karate 
-> ler
-> Matematica
-> Programar
+- Gosto de One piece :)
+- Basketball
+- Karate 
+- ler
+- Matematica
+- Programar
 <center>
 
 </center>
