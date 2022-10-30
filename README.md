@@ -1,19 +1,19 @@
 
  
 </div>
-      <h1 align="left" id="macropower-title">:wave: Hello there! I'm Ysrael</h1>
-<h3 align="left">I am a back-end developer</h3>
+      <h1 align="left" id="macropower-title">:wave: eaw aqui é o Ysrael</h1>
+<h3 align="left">Eu sou um desenvolvedor web full-stack em busca de mais conhecimento</h3>
 
 <p align="left">
 
-- :seedling: &nbsp;I am a full stack developer, python, mysql, java, javascript
+- :seedling: &nbsp;Habilidades aprendidas durante minha jornada : Python, django, DRF, fast-api, react, Angular, Js|TS, Java|Kotlin, Springao de cria
 
 
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Gosto de One piece :)
 <center>
 
 </center>
