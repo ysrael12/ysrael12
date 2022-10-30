@@ -6,7 +6,16 @@
 
 <p align="left">
 
-- :seedling: &nbsp;Habilidades aprendidas durante minha jornada : Python, django, DRF, fast-api, react, Angular, Js|TS, Java|Kotlin, Springao de cria
+- :seedling: &nbsp;Habilidades aprendidas durante minha jornada :
+ - Python
+ - django 
+ -DRF
+ - fast-api
+ - react
+ - Angular
+ - Js|TS
+ - Java|Kotlin
+ - Spring Boot
 
 
 <br>
