@@ -7,15 +7,12 @@
 <p align="left">
 
 - :seedling: &nbsp;Habilidades obtidas durante minha jornada :
+ - Java
+ - Spring boot
  - Python
- - django 
- -DRF
+ - Django rest framework
  - fast-api
- - react
- - Angular
- - Js|TS
- - Java|Kotlin
- - Spring Boot
+ - react js e native
 
 
 <br>
