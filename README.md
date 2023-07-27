@@ -22,6 +22,7 @@
 
 - Gosto de One piece :)
 - Basketball
+- ping pong
 - Karate 
 - ler
 - Matematica
