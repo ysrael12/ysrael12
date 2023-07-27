@@ -13,6 +13,7 @@
  - Django rest framework
  - fast-api
  - react js e native
+ - vue js
 
 
 <br>
