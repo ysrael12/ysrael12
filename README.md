@@ -7,25 +7,20 @@
 <p align="left">
 
 - :seedling: &nbsp;Habilidades obtidas durante minha jornada :
- - Java
- - Spring boot
- - Python
- - Django rest framework
- - fast-api
- - react js e native
- - vue js
-
-
+ - Java / SpringBoot
+ - JavaScript / node js
+ - Python / Django and FastApi
+ - React Js e React Native
 <br>
 
 <h2 align="left" id="macropower-tech">Sobre Ysrael(Pessoa)</h2>
 
 - Gosto de One piece :)
-- Basketball
+- Volei
 - ping pong
 - Karate 
 - ler
-- Matematica
+- Matemática
 - Programar
 <center>
 
